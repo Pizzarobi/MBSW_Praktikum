@@ -16,3 +16,4 @@
 	- 2/4 Takt bei LED 3
 	- 1/4 Takt bei LED 2
 	- 1 kurzes Bestätigungssignal beim Einschalten von LED 1
+
